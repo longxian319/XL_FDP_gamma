@@ -11,7 +11,7 @@ The full toolbox will be put in this folder.
 ## GammaDynaPatt
 The project ...
 
-![alt text](https://github.com/longxian319/PhD_XL/blob/master/GammaDynaPatt/example%20movies/GammaBurstPatterns.avi)
+![Example superdiffusive gamma burst pattern movie](https://github.com/longxian319/PhD_XL/blob/master/GammaDynaPatt/example%20movies/GammaBurstPatterns.avi)
 
 
 ## CrossScalePatt
